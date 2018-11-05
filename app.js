@@ -10,3 +10,7 @@ https://mlab.com/databases/meandb
 
 sudha
 sudha123
+angular6 %% employee payroll
+https://www.youtube.com/watch?v=sWOXETusJNw&index=18&list=WL
+
+https://github.com/AmitXShukla/Employee-Payroll-Salary-App-Angular-6-MEAN-Stack
