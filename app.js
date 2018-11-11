@@ -21,3 +21,7 @@ crud operation angular7
 https://www.youtube.com/watch?v=jYvkMv7LzCw
 
 https://github.com/CodAffection/Angular-7-CRUD-with-Web-API
+
+
+//##login all
+https://github.com/BrentAureli/Youtube-Tutorials/tree/master/NodeJS%20Tutorials
